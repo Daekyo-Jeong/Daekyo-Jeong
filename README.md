@@ -12,31 +12,13 @@ It is now being repaired. 🛠
 <br>
 
 안녕하세요. 😁
+끊임없는 고민, 다양한 시도, 생각을 구현합니다.
+좋은 상호작용을 만드는 데 관심 있습니다.
 
-저는 정대교입니다.
-
-현재 서울에 거주하고 있습니다. 🇰🇷
-
-인터랙션 디자인을 공부했습니다. 🎨
-
-웹 디벨로퍼가 되는 것을 꿈꾸고 있습니다. 🧑‍💻
+브루탈리즘과 카세트퓨처리즘,
+필름 카메라와 카세트 같은 오래된 것들을 좋아합니다.
 
 감사합니다.
-
----------
-
-Hi, guys. 😁
-
-I'm Daekyo Jeong.
-
-I based in Seoul. 🇰🇷
-
-I studied interaction design. 🎨
-
-I dream of becoming a web developer. 🧑‍💻
-
-Thx u.
-
 
 
 <!--
