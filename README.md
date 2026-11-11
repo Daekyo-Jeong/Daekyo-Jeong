@@ -6,7 +6,7 @@
 It is now being repaired. 🛠
 
 ~~www.daekyojeong.com~~
-[dkdk.me](dkdk.me)
+[dkdk.me](https://dkdk.me)
 
 
 <br>
